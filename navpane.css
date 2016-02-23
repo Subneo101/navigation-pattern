@@ -1,0 +1,8 @@
+/* CSS used here will be applied after bootstrap.css */
+.sys{color: grey; background:#eee; padding:10px 0 10px 10px ;} 
+
+ul, ul li{list-style:none; padding:5px 0;}
+.inlist{padding:0 0 40px 10px;color:black;background:#eee;}
+.actv-item{background:white;padding: 5px 0px 10px 4px; color:brown;font-weight:bold; border-bottom:2px solid grey;}
+
+.actv-item>.actv-item{color:black;}
